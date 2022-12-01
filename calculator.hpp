@@ -70,6 +70,7 @@
 namespace calculator
 {
 
+    int a, s, f;
 /// calculator::eval() throws a calculator::error if it fails
 /// to evaluate the expression string.
 ///
